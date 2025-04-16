@@ -271,36 +271,43 @@ Soy xxxxxxxxx
 
 ### 1. Adultos jóvenes ocupados (25 - 50 años)
 
-**Descripción**  
-Hombres y mujeres que trabajan tiempo completo, viven en zonas urbanas como Lima Metropolitana y desean mejorar su salud física. Tienen poco tiempo libre y buscan soluciones prácticas, rápidas y efectivas que se integren fácilmente a su rutina.
+**Descripción:**  
+Hombres y mujeres que trabajan a tiempo completo, principalmente en zonas urbanas como Lima Metropolitana, interesados en mejorar su salud física. Debido a sus agendas ajustadas, buscan soluciones prácticas, rápidas y efectivas que puedan integrar fácilmente en su rutina diaria.
 
-**Características clave**  
-- Profesionales con agendas ajustadas.  
+**Características clave:**  
+- Profesionales con horarios laborales intensos.  
 - Nivel socioeconómico medio a alto.  
-- Acceso constante a smartphones.  
-- Metas de salud definidas, pero necesitan guía y motivación.  
-- Buscan flexibilidad y personalización en sus entrenamientos y dietas.
+- Acceso frecuente y constante a smartphones.  
+- Metas claras de salud, pero requieren guía y motivación para alcanzarlas.  
+- Prefieren programas de entrenamiento y dietas flexibles y personalizables.
 
-**Datos de sustento**  
-- Más del **65%** de personas en Lima trabajan más de 40 horas semanales (INEI).  
-- El **70%** no realiza actividad física regular.  
-- Penetración de smartphones: **91.6%** (INEI, 2022).
+**Datos de sustento:**  
+- Más del 65% de personas en Lima Metropolitana trabajan más de 40 horas semanales.  
+- El 70% de esta población no realiza actividad física de manera regular.  
+- Penetración de smartphones en Perú es del 91.6% (INEI, 2022).  
+- El 94.2% de los trabajadores en Lima cuentan con algún tipo de seguro de salud.  
+- Estudios indican que actividad física y sueño adecuado mejoran la autoevaluación de salud en adultos jóvenes.
+
+---
 
 ### 2. Jóvenes universitarios saludables en formación (18 - 24 años)
 
-**Descripción**  
-Estudiantes o egresados recientes que están formando sus hábitos saludables. Cuentan con mayor disponibilidad de tiempo, pero menos conocimiento técnico y un menor poder adquisitivo. Son nativos digitales, influidos por redes sociales y tendencias fitness, y buscan una app atractiva, visual y que los motive constantemente.
+**Descripción:**  
+Estudiantes universitarios o egresados recientes que están consolidando hábitos saludables. Tienen mayor disponibilidad de tiempo, pero menor conocimiento técnico y poder adquisitivo limitado. Son nativos digitales, influenciados por redes sociales y tendencias fitness, y buscan aplicaciones atractivas, visuales y motivadoras.
 
-**Características clave**  
-- Alta actividad en redes sociales.  
-- Aprecian el contenido interactivo y la gamificación.  
-- Tienen tiempo para entrenar, pero requieren orientación.  
-- Interesados en recetas saludables peruanas y fáciles de preparar.
+**Características clave:**  
+- Alta actividad en redes sociales y consumo de contenido digital.  
+- Prefieren contenido interactivo y gamificación para mantener la motivación.  
+- Disponen de tiempo para entrenar, pero necesitan orientación técnica.  
+- Interés en recetas saludables, especialmente peruanas y fáciles de preparar.
 
-**Datos de sustento**  
-- El **45%** de jóvenes en Perú busca llevar una vida más saludable (Ipsos, 2023).  
-- El **94%** accede a internet desde su celular.  
-- Alta disposición a probar nuevas apps si son visuales, gratuitas o freemium.
+**Datos de sustento:**  
+- El 45% de jóvenes peruanos busca llevar una vida más saludable (Ipsos, 2023).  
+- El 94% accede a internet principalmente desde sus celulares.  
+- Alta disposición a probar nuevas aplicaciones si son visuales y gratuitas o con modelo freemium.  
+- Solo un 24.8% realiza actividad física recomendada diariamente.  
+- La cobertura de seguro de salud en jóvenes de 18 a 29 años aumentó del 50.7% al 64.3% entre 2011 y 2016.
+
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
