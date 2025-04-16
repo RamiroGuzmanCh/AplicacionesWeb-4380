@@ -269,6 +269,39 @@ Soy xxxxxxxxx
 
 ### 1.3. Segmentos objetivo
 
+### 1. Adultos jóvenes ocupados (25 - 50 años)
+
+**Descripción**  
+Hombres y mujeres que trabajan tiempo completo, viven en zonas urbanas como Lima Metropolitana y desean mejorar su salud física. Tienen poco tiempo libre y buscan soluciones prácticas, rápidas y efectivas que se integren fácilmente a su rutina.
+
+**Características clave**  
+- Profesionales con agendas ajustadas.  
+- Nivel socioeconómico medio a alto.  
+- Acceso constante a smartphones.  
+- Metas de salud definidas, pero necesitan guía y motivación.  
+- Buscan flexibilidad y personalización en sus entrenamientos y dietas.
+
+**Datos de sustento**  
+- Más del **65%** de personas en Lima trabajan más de 40 horas semanales (INEI).  
+- El **70%** no realiza actividad física regular.  
+- Penetración de smartphones: **91.6%** (INEI, 2022).
+
+### 2. Jóvenes universitarios saludables en formación (18 - 24 años)
+
+**Descripción**  
+Estudiantes o egresados recientes que están formando sus hábitos saludables. Cuentan con mayor disponibilidad de tiempo, pero menos conocimiento técnico y un menor poder adquisitivo. Son nativos digitales, influidos por redes sociales y tendencias fitness, y buscan una app atractiva, visual y que los motive constantemente.
+
+**Características clave**  
+- Alta actividad en redes sociales.  
+- Aprecian el contenido interactivo y la gamificación.  
+- Tienen tiempo para entrenar, pero requieren orientación.  
+- Interesados en recetas saludables peruanas y fáciles de preparar.
+
+**Datos de sustento**  
+- El **45%** de jóvenes en Perú busca llevar una vida más saludable (Ipsos, 2023).  
+- El **94%** accede a internet desde su celular.  
+- Alta disposición a probar nuevas apps si son visuales, gratuitas o freemium.
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
