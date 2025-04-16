@@ -33,7 +33,7 @@
 
 | Versión | Fecha       | Autor | Descripción |
 |---------|-------------|-------|-------------|
-| TB1     | XX/XX/XXXX  |       |             |
+| TB1     | 16/04/2025  | Ramiro Alexander Guzman Chavez  |   Desarrollé la carátula del repositorio, el startup profile, la solution profile, establecí los segmentos objetivos y el diseño de las entrevistas.          |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
 | TB1     | XX/XX/XXXX  |       |             |
