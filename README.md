@@ -310,51 +310,60 @@ Estudiantes o egresados recientes que están formando sus hábitos saludables. C
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
-### 2.2. Entrevistas
+## 2.2 Entrevistas
+En esta sección del informe se realizará el diseño, registro y análisis de las entrevistas de nuestros segmentos objetivos.
 
-#### 2.2.1. Diseño de entrevistas
+### 2.2.1 Diseño de entrevistas
+Segmentos encontrados:
 
-### Segmento: Adultos jóvenes ocupados (25 - 40 años)
+- **Jóvenes Profesionales Urbanos (25 - 40 años)**
+- **Jóvenes Universitarios Saludables en Formación (18 - 24 años)**
 
-#### Preguntas Generales
-1. ¿Cuál es su nombre completo?  
-2. ¿Cuántos años tienes?  
-3. ¿Cuál es su situación actual? ¿Trabaja, estudia o ambos?  
-4. ¿En qué ciudad resides?
-
-#### Preguntas sobre Personalidad
-5. ¿Te consideras una persona extrovertida o introvertida? ¿Por qué?  
-6. ¿Eres una persona que toma decisiones racionales o emocionales? ¿Por qué?
-
-#### Preguntas específicas del segmento
-7. ¿Cuáles son tus principales obstáculos para mantener una vida saludable en tu rutina diaria?  
-8. ¿Has intentado seguir alguna rutina de ejercicios o dieta antes? ¿Qué funcionó y qué no?  
-9. ¿Qué tipo de herramientas digitales utilizas actualmente (si alguna) para mejorar tu salud física o alimentación?  
-10. ¿Estarías dispuesto/a a pagar por una asesoría personalizada y flexible dentro de una app si resuelve tus problemas de tiempo o motivación?  
-11. ¿Qué tanto influye tu entorno (familia, trabajo, amigos) en tu capacidad de mantener hábitos saludables?  
-12. ¿Qué nivel de personalización esperarías de una app de bienestar (en entrenamientos, alimentación, recordatorios, etc.)?
+Antes de realizar las entrevistas, consideramos prudente realizar un análisis previo para llevar a cabo las entrevistas de la manera más efectiva. Para cada uno de nuestros segmentos, proponemos las siguientes preguntas para conocer mejor a nuestro público objetivo.
 
 ---
 
-### Segmento: Jóvenes universitarios saludables en formación (18 - 24 años)
+### Segmento: Jóvenes Profesionales Urbanos (25 - 40 años)
 
-#### Preguntas Generales
-1. ¿Cuál es su nombre completo?  
-2. ¿Cuántos años tienes?  
-3. ¿Cuál es su situación actual? ¿Trabaja, estudia o ambos?  
-4. ¿En qué ciudad resides?
+#### **Principales:**
+1. **Introducción al Rol:** ¿Podrías describir tu rol profesional y las principales responsabilidades que tienes en tu día a día?  
+2. **Contexto Personal:** ¿Cómo describirías tu estilo de vida diario en cuanto a trabajo, estudios y actividades personales?  
+3. **Prioridades de Salud:** ¿Qué tan importante es para ti mantener un estilo de vida saludable?  
+4. **Desafíos en la Salud:** ¿Cuáles son los principales obstáculos que enfrentas para mantener una vida saludable (por ejemplo, falta de tiempo, motivación, etc.)?  
+5. **Herramientas Actuales:** ¿Utilizas alguna aplicación o herramienta digital para hacer ejercicio o llevar un control de tu salud?  
+6. **Experiencias Pasadas:** ¿Has intentado seguir algún programa de ejercicios o dieta en el pasado? ¿Qué funcionó y qué no?  
+7. **Uso de Tecnología:** ¿Cómo crees que la tecnología podría ayudarte a mejorar tu salud física y mental?  
+8. **Motivación:** ¿Qué te motiva a comenzar una rutina de ejercicios o dieta saludable?  
+9. **Adaptabilidad de las Herramientas:** ¿Te gustaría que una app de bienestar se adaptara a tus horarios y rutinas?  
+10. **Interés en Personalización:** ¿Qué tan importante sería para ti que una app personalice los entrenamientos y planes de alimentación según tus preferencias y metas?  
+11. **Compromiso:** ¿Qué tipo de motivación o seguimiento consideras necesario para mantener tu compromiso con una rutina saludable?  
+12. **Disposición a Pagar:** ¿Estarías dispuesto a pagar por una app que ofrezca asesoría personalizada y flexible para tus necesidades de salud?  
+13. **Socialización:** ¿Te gustaría tener opciones para interactuar con otros usuarios dentro de la app (por ejemplo, desafíos, comunidad)?  
+14. **Impacto del Estrés:** ¿Cómo manejas el estrés y la presión laboral, y cómo crees que una app podría ayudarte en ese sentido?  
+15. **Expectativas:** ¿Qué expectativas tendrías al usar una app para tu bienestar físico y mental? ¿Qué funcionalidades te gustaría que tuviera?
 
-#### Preguntas sobre Personalidad
-5. ¿Te consideras una persona extrovertida o introvertida? ¿Por qué?  
-6. ¿Eres una persona que toma decisiones racionales o emocionales? ¿Por qué?
+---
 
-#### Preguntas específicas del segmento
-7. ¿Qué te motiva a comenzar una rutina de ejercicios o una dieta saludable?  
-8. ¿Qué te gustaría que una app de fitness haga por ti para mantenerte motivado y constante?  
-9. ¿Te interesaría que la app incluya retos, logros o niveles? ¿Qué tipo de recompensas o elementos te mantendrían comprometido?  
-10. ¿Qué tan importante es para ti que la app se adapte a tus horarios, metas y preferencias alimenticias locales (como recetas peruanas saludables)?  
-11. ¿Has utilizado antes alguna app para entrenar o mejorar tu alimentación? ¿Cuál fue tu experiencia?  
-12. ¿Preferirías una app con un enfoque más técnico (datos, métricas) o más motivacional (mensajes, comunidad, logros)?
+### Segmento: Jóvenes Universitarios Saludables en Formación (18 - 24 años)
+
+#### **Principales:**
+1. **Introducción al Rol:** ¿Cuál es tu situación actual? ¿Estás estudiando, trabajando o ambas cosas?  
+2. **Estilo de Vida:** ¿Cómo describirías tu estilo de vida, tanto en términos de actividad física como de alimentación?  
+3. **Prioridades de Salud:** ¿Qué tan importante es para ti mantener una vida saludable en este momento de tu vida?  
+4. **Desafíos en la Salud:** ¿Qué dificultades encuentras para mantenerte activo/a o alimentarte saludablemente?  
+5. **Motivación para la Actividad Física:** ¿Qué te motiva a seguir una rutina de ejercicios?  
+6. **Tecnología y Bienestar:** ¿Qué tipo de herramientas digitales (aplicaciones, plataformas) utilizas para ayudarte a llevar una vida más saludable?  
+7. **Intereses en Fitness:** ¿Te gustaría que una app de fitness incluyera retos, logros o niveles para mantenerte motivado/a?  
+8. **Preferencias de Ejercicio:** ¿Qué tipo de ejercicios o entrenamientos prefieres hacer?  
+9. **Dieta Saludable:** ¿Te interesa seguir una dieta saludable? ¿Qué tipo de planes de alimentación serían más atractivos para ti?  
+10. **Personalización:** ¿Qué tan importante es para ti que una app se adapte a tus horarios, metas y preferencias alimenticias locales (como recetas peruanas saludables)?  
+11. **Herramientas de Motivación:** ¿Qué características te gustaría ver en una app que te ayuden a mantener la motivación y constancia?  
+12. **Accesibilidad:** ¿Prefieres entrenar en casa o en el gimnasio? ¿Cómo podría una app apoyarte en cualquiera de esos entornos?  
+13. **Interacción Social:** ¿Te gustaría que la app tuviera una opción para interactuar con amigos o una comunidad de usuarios?  
+14. **Disposición a Pagar:** Si una app de bienestar se ajusta a tus necesidades, ¿estarías dispuesto/a a pagar por una versión premium?  
+15. **Expectativas de la App:** ¿Qué expectativas tienes de una app para ayudarte a alcanzar tus objetivos de bienestar físico y mental? ¿Qué funcionalidades te gustaría que tuviera?
+
+---
 
 #### 2.2.2. Registro de entrevistas
 
