@@ -314,6 +314,48 @@ Estudiantes o egresados recientes que están formando sus hábitos saludables. C
 
 #### 2.2.1. Diseño de entrevistas
 
+### Segmento: Adultos jóvenes ocupados (25 - 40 años)
+
+#### Preguntas Generales
+1. ¿Cuál es su nombre completo?  
+2. ¿Cuántos años tienes?  
+3. ¿Cuál es su situación actual? ¿Trabaja, estudia o ambos?  
+4. ¿En qué ciudad resides?
+
+#### Preguntas sobre Personalidad
+5. ¿Te consideras una persona extrovertida o introvertida? ¿Por qué?  
+6. ¿Eres una persona que toma decisiones racionales o emocionales? ¿Por qué?
+
+#### Preguntas específicas del segmento
+7. ¿Cuáles son tus principales obstáculos para mantener una vida saludable en tu rutina diaria?  
+8. ¿Has intentado seguir alguna rutina de ejercicios o dieta antes? ¿Qué funcionó y qué no?  
+9. ¿Qué tipo de herramientas digitales utilizas actualmente (si alguna) para mejorar tu salud física o alimentación?  
+10. ¿Estarías dispuesto/a a pagar por una asesoría personalizada y flexible dentro de una app si resuelve tus problemas de tiempo o motivación?  
+11. ¿Qué tanto influye tu entorno (familia, trabajo, amigos) en tu capacidad de mantener hábitos saludables?  
+12. ¿Qué nivel de personalización esperarías de una app de bienestar (en entrenamientos, alimentación, recordatorios, etc.)?
+
+---
+
+### Segmento: Jóvenes universitarios saludables en formación (18 - 24 años)
+
+#### Preguntas Generales
+1. ¿Cuál es su nombre completo?  
+2. ¿Cuántos años tienes?  
+3. ¿Cuál es su situación actual? ¿Trabaja, estudia o ambos?  
+4. ¿En qué ciudad resides?
+
+#### Preguntas sobre Personalidad
+5. ¿Te consideras una persona extrovertida o introvertida? ¿Por qué?  
+6. ¿Eres una persona que toma decisiones racionales o emocionales? ¿Por qué?
+
+#### Preguntas específicas del segmento
+7. ¿Qué te motiva a comenzar una rutina de ejercicios o una dieta saludable?  
+8. ¿Qué te gustaría que una app de fitness haga por ti para mantenerte motivado y constante?  
+9. ¿Te interesaría que la app incluya retos, logros o niveles? ¿Qué tipo de recompensas o elementos te mantendrían comprometido?  
+10. ¿Qué tan importante es para ti que la app se adapte a tus horarios, metas y preferencias alimenticias locales (como recetas peruanas saludables)?  
+11. ¿Has utilizado antes alguna app para entrenar o mejorar tu alimentación? ¿Cuál fue tu experiencia?  
+12. ¿Preferirías una app con un enfoque más técnico (datos, métricas) o más motivacional (mensajes, comunidad, logros)?
+
 #### 2.2.2. Registro de entrevistas
 
 #### 2.2.3. Análisis de entrevistas
