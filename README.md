@@ -395,6 +395,8 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
+<p align="center">
+<img src="./assets/To-be_Scenario_Map.png" alt="tbsm"/>
 
 ### 3.2. User Stories
 
