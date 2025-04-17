@@ -387,6 +387,8 @@ Antes de realizar las entrevistas, consideramos prudente realizar un análisis p
 #### 2.3.4. Empathy Mapping
 
 #### 2.3.5. As-is Scenario Mapping
+<p align="center">
+<img src="./assets/As-is_Scenario_Map.png" alt="aism"/>
 
 ### 2.4. Ubiquitous Language
 
