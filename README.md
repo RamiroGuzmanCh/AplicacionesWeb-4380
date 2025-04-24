@@ -270,6 +270,40 @@ _¿De qué manera podríamos innovar con FitWise para fomentar una mayor constan
 
 ##### 1.2.2.2. Lean UX Assumptions
 
+**Business Assumptions**
+
+1. Creemos que los clientes no tienen tiempo o motivación para mantenerse en buena forma.
+2. Nuestros clientes iniciales serán adultos que oscilarán entre los 25-40 años de edad que buscan hacer ejercicios para mejorar su salud.
+3. Las necesidades de nuestros clientes se satisfacerán con una plataforma centralizada (para web/mobile) que abarque la actividad física y nutrición adecuada al perfil del usuario.
+4. Los clientes tendrán beneficios notorios al usar por un tiempo la aplicación.
+5. Nuestros clientes buscan conseguir un eficiente plan de entrenamiento y nutrición que les ayude a conseguir sus metas físicas o de salud deseadas sin la necesidad de sobrecargarse de información.
+6. Adquiriremos clientes mediante estrategias de marketing digital, alianzas con gimnasios locales y reseñas de usuarios satisfechos.
+7. El beneficio económico del proyecto consiste en implementar un sistema de suscripciones premium (planes avanzados, entrenadores certificados) y comisiones por asociaciones con marcas enfocadas en la salud.
+8. Nuestro mayor riesgo es que el usuario no valore nuestra propuesta porque prefieran propuestas más simples o baratas.
+9. Nuestra principal competencia serán las apps genéricas de fitness (como Freeletics o MyFitnessPal) y la oferta de entrenadores en redes sociales.
+10. Venceremos a la competencia por nuestra capacidad de personalización dinámica y la integración de tecnología pensada en motivar al usuario.
+11. Realizaremos estrategias de onboarding amigables, incentivos iniciales y llevaremos un registro sobre cuáles son los features más utilizados por el usuario para enfocarnos en esa característica.
+**¿Qué otras suposiciones tenemos que, si resultan falsas, harán que nuestro negocio/proyecto fracase?**
+
+**User Assumptions**
+
+1. ¿Quiénes serán nuestros usuarios?
+-Personas con poco conocimiento y las que ya tienen entendimiento del mundo fitness que busca mejorar su rendimiento general.
+2. ¿Dónde encaja nuestro producto en su vida?
+-Mucho dependerá de la rutina del usuario. Por lo que puede ser en las mañanas al despertar; durante breaks por las tardes, así como también por las noches.
+3. ¿Qué problemas resuelve nuestro producto?
+-La falta de tiempo de para planificar dietas o rutinas de ejercicio.
+-Desmotivación por resultados lentos.
+-Desconocimiento de técnicas adecuadas para ejercitarse.
+-La obesidad de la población.
+4. ¿Cómo y cuándo es usado nuestro producto?
+Antes de ingerir alimentos el usuario buscará y pequeño tiempo para crear rutinas de ejercicios o dietas nutricionales. Así conseguirá armar un horario de ejercicio adecuado a su perfil y tiempo.
+5. ¿Qué características son importantes?
+-Personalización automática, recordatorios inteligentes, comunidad motivacional y seguimiento visual del progreso (gráficos, badges).
+6. ¿Cómo luce y se comporta nuestro producto?
+-Luce agradable a la vista, con botones con bordes redondeados y evitar los colores neon para no fatigar la visión del usuario.
+-Usa colores enérgicos, lenguaje informal con buena ortografía y flujos de acción cortos para máxima eficiencia.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
 ##### 1.2.2.4. Lean UX Canvas
