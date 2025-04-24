@@ -261,6 +261,13 @@ Soy xxxxxxxxx
 
 ##### 1.2.2.1. Lean UX Problem Statements
 
+FitWise ha sido desarrollada con el propósito de brindar un acceso sencillo a entrenamientos y planes alimenticios personalizados, ajustándose al estilo de vida, metas personales y nivel de experiencia de cada persona. Nuestra propuesta busca ofrecer una experiencia atractiva, fácil de usar y basada en datos, con el fin de promover hábitos saludables de forma duradera.
+
+Hemos identificado que muchos usuarios tienen dificultades para mantener la constancia en sus rutinas debido a la falta de motivación inmediata y a la ausencia de planes flexibles que se ajusten a sus horarios cambiantes o progreso. Además, la abundancia de aplicaciones de fitness genéricas —con rutinas no adaptadas y sugerencias fijas— suele generar frustración en quienes esperan obtener resultados específicos.
+
+_¿De qué manera podríamos innovar con FitWise para fomentar una mayor constancia entre los usuarios en sus entrenamientos y planes nutricionales, aumentando así la retención y beneficios notorios en su salud?_
+
+
 ##### 1.2.2.2. Lean UX Assumptions
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
