@@ -288,21 +288,21 @@ _¿De qué manera podríamos innovar con FitWise para fomentar una mayor constan
 **User Assumptions**
 
 1. ¿Quiénes serán nuestros usuarios?
-  -Personas con poco conocimiento y las que ya tienen entendimiento del mundo fitness que busca mejorar su rendimiento general.
+    -Personas con poco conocimiento y las que ya tienen entendimiento del mundo fitness que busca mejorar su rendimiento general.
 2. ¿Dónde encaja nuestro producto en su vida?
-  -Mucho dependerá de la rutina del usuario. Por lo que puede ser en las mañanas al despertar; durante breaks por las tardes, así como también por las noches.
+    -Mucho dependerá de la rutina del usuario. Por lo que puede ser en las mañanas al despertar; durante breaks por las tardes, así como también por las noches.
 3. ¿Qué problemas resuelve nuestro producto?
-  -La falta de tiempo de para planificar dietas o rutinas de ejercicio.
-  -Desmotivación por resultados lentos.
-  -Desconocimiento de técnicas adecuadas para ejercitarse.
-  -La obesidad de la población.
+    -La falta de tiempo de para planificar dietas o rutinas de ejercicio.
+    -Desmotivación por resultados lentos.
+    -Desconocimiento de técnicas adecuadas para ejercitarse.
+    -La obesidad de la población.
 4. ¿Cómo y cuándo es usado nuestro producto?
-  -Antes de ingerir alimentos el usuario buscará y pequeño tiempo para crear rutinas de ejercicios o dietas nutricionales. Así conseguirá armar un horario de ejercicio adecuado a su perfil y tiempo.
+    -Antes de ingerir alimentos el usuario buscará y pequeño tiempo para crear rutinas de ejercicios o dietas nutricionales. Así conseguirá armar un horario de ejercicio adecuado a su perfil y tiempo.
 5. ¿Qué características son importantes?
-  -Personalización automática, recordatorios inteligentes, comunidad motivacional y seguimiento visual del progreso (gráficos, badges).
+    -Personalización automática, recordatorios inteligentes, comunidad motivacional y seguimiento visual del progreso (gráficos, badges).
 6. ¿Cómo luce y se comporta nuestro producto?
-  -Luce agradable a la vista, con botones con bordes redondeados y evitar los colores neon para no fatigar la visión del usuario.
-  -Usa colores enérgicos, lenguaje informal con buena ortografía y flujos de acción cortos para máxima eficiencia.
+    -Luce agradable a la vista, con botones con bordes redondeados y evitar los colores neon para no fatigar la visión del usuario.
+    -Usa colores enérgicos, lenguaje informal con buena ortografía y flujos de acción cortos para máxima eficiencia.
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
