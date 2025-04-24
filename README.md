@@ -305,6 +305,12 @@ _¿De qué manera podríamos innovar con FitWise para fomentar una mayor constan
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
+**Pensamos que**, al brindar a los usuarios una plataforma donde puedan descubrir rutinas de entrenamiento y planes nutricionales adaptados a su experiencia, metas, tiempo disponible y características físicas, será más fácil para ellos alcanzar sus objetivos y mejorar su condición física. **Comprobaremos que** esto funciona **cuando** observemos un aumento constante en los registros exitosos y altos niveles de satisfacción reflejados en reseñas y comentarios tras cada actividad.
+
+**Consideramos que**, al permitir que los usuarios definan sus metas físicas y las zonas del cuerpo que desean trabajar durante el proceso de registro inicial, las rutinas generadas serán más pertinentes y personalizadas. **Confirmaremos** esta hipótesis **cuando** notemos una mayor proporción de usuarios que completan el onboarding y una disminución en la tasa semanal de abandono de rutinas.
+
+**Creemos que**, al añadir un sistema de insignias y recompensas para quienes completen sus rutinas semanales, incrementaremos la motivación de los usuarios y su constancia. **Validaremos** esta suposición **cuando** se registre un incremento en el número promedio de entrenamientos completados por semana.
+
 ##### 1.2.2.4. Lean UX Canvas
 
 ### 1.3. Segmentos objetivo
