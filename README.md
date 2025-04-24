@@ -204,7 +204,7 @@ Además, cuento con conocimientos en lenguajes de programación como Java y Java
 ---
 
 #### **Farid Sebastian Briceño De La Cruz – Ingeniería de Software – U20211F211**  
-<*(Sin imagen disponible)*
+<img src="./assets/faridfoto.jpg" alt="Farid Briceño" height="200"/>
 
 Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
 
